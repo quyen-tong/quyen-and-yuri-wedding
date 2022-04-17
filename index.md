@@ -615,7 +615,7 @@
 				</div>
 			</div>
 			<div style="padding-bottom:5rem;"></div>
-		</section>
+	
 		<!-- Wedding Party -->
 		<section id="wedding_party" style="background-color:#00100c;">
 			<div style="padding-bottom:2rem;"></div>
