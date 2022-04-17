@@ -620,7 +620,6 @@
 					<h4 class="text-center pt-2">We recommend staying in the following hotel(s):</h4>
 					<p class="text-center  pt-1"><a class="wt-600" href="https://www.ihg.com/holidayinnexpress/hotels/us/en/vancouver/vanwa/hoteldetail" target="_blank">Holiday Inn Express Vancouver North - Salmon&nbsp;Creek</a><br>13101 NE 27th Avenue, Vancouver, Washington 98686</p>
 					<p class="text-center pt-1"><span class="wt-600">More Recommendations Coming Soon</span><br></p>
-					<!--<p class="text-center pt-1"><a class="wt-600" href="https://markspencer.com/" target="_blank">The Mark Spencer Hotel Portland</a><br>409 SW 11th Ave, Portland, OR 97205</p>-->
 				</div>
 			</div>
 			<div style="padding-bottom:5rem;"></div>
