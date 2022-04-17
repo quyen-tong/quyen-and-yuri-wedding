@@ -425,14 +425,6 @@
 			display: block;
 			}
 			}
-			@keyframes pump {
-			0%{
-			transform: scale(1);
-			}
-			100%{
-			transform: scale(1.1);
-			}
-			}
 			@keyframes change1 {
 			0%,
 			25% {
@@ -1080,7 +1072,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-3 col-12" style="background-image:url('img/starshockey.jpg');background-repeat: no-repeat;background-size: cover;background-position:center center;min-height:300px;"> </div>
+				<div class="col-md-3 col-12" style="background-image:url('img/starshockey.jpg');background-repeat: no-repeat;background-size: cover;background-position:center;min-height:300px;"> </div>
 			</div>
 		</section>
 		<!-- Option 1: Bootstrap Bundle with Popper -->
