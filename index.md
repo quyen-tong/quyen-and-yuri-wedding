@@ -68,36 +68,6 @@
 			animation-iteration-count: infinite;
 			/*animation-direction: alternate;*/
 			}
-			.rhombus2 {
-			margin: 40px 0 0 60px;
-			/*background: #fcfcfc;*/
-			margin: auto;
-			margin-top: 100px;
-			border-radius: 10px;
-			height: 75px;
-			width: 75px;
-			margin-bottom: 10px;
-			float: center;
-			animation-delay: 0.9s;
-			animation-duration: 0.8s;
-			animation-name: pump;
-			animation-iteration-count: infinite;
-			animation-direction: alternate;
-			animation-timing-function: cubic-bezier(.26,-0.53,.57,2.32);
-			}
-			.rhombus2:before {
-			content: "";
-			position: absolute;
-			background: #005C46;
-			height: 40px;
-			width: 40px;
-			z-index: 0;
-			margin-top: 15px;
-			margin-left: 15px;
-			transform: rotate(45deg);
-			}
-			/*	* {overflow-x: hidden;
-			overflow-y: visible !important;} */
 			@font-face {
 			font-family: 'AmalfiCoast';
 			src: url('AmalfiCoast.ttf');
@@ -487,18 +457,6 @@
 			margin-left: 30px;
 			}
 			}
-			/*@media only screen and (min-width: 599px) and (max-width: 991px) {
-			.carousel-inner {
-			display: flex;
-			}
-			.carousel-item {
-			margin-right: 0;
-			flex: 0 0 50%;
-			display: block;
-			}
-			}
-			@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) {
-			}*/
 		</style>
 	</head>
 	<body>
@@ -602,7 +560,6 @@
 			</div>
 			<div style="padding-bottom:5rem;">&nbsp;</div>
 		</section>
-		<section>
 		<!-- Schedule -->
 		<section style="background-color:#00100c;">
 			<div class="row g-0">
@@ -630,11 +587,11 @@
 								<span class="gold wt-500">7:00 PM</span><br>
 								<span class="allcaps white-text schedule-activity">The End</span>
 							</p>
-							<p class="text-left white-text pt-5" style="font-size:15px;line-height:17px;">Times are approximate and could change.</p>
+							<p class="text-left white-text pt-5" style="font-size:15px;line-height:17px;">Times are approxiate and could change.</p>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6 col-lg-7 d-sm-none d-md-block" style="background-image:url('img/schedule.jpg');background-repeat: no-repeat;background-size: cover;background-position:center center;"> </div>
+				<div class="col-md-6 col-lg-7 d-sm-none d-md-block" style="background-image:url('img/schedule.jpg');background-repeat: no-repeat;background-size: cover;background-position:center;"> </div>
 			</div>
 		</section>
 		<!-- Getting There -->
@@ -1124,8 +1081,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-3 col-12" style="background-image:url('img/starshockey.jpg');background-repeat: no-repeat;
-					background-size: cover;background-position:center center;min-height:300px;"> </div>
+				<div class="col-md-3 col-12" style="background-image:url('img/starshockey.jpg');background-repeat: no-repeat;background-size: cover;background-position:center center;min-height:300px;"> </div>
 			</div>
 		</section>
 		<!-- Option 1: Bootstrap Bundle with Popper -->
