@@ -634,7 +634,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6 col-lg-7 d-sm-none d-md-block" style="background-image:url('img/starshockey.jpg');background-repeat: no-repeat;background-size: cover;background-position:center center;"> </div>
+				<div class="col-md-6 col-lg-7 d-sm-none d-md-block" style="background-image:url('img/schedule.jpg');background-repeat: no-repeat;background-size: cover;background-position:center center;min-height:100px;"> </div>
 			</div>
 		</section>
 		<!-- Getting There -->
