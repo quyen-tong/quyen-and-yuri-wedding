@@ -5,9 +5,6 @@
 		<meta name="robots" content="noindex">
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta http-equiv='cache-control' content='no-cache'> 
-		<meta http-equiv='expires' content='0'> 
-		<meta http-equiv='pragma' content='no-cache'>
 		<!-- Bootstrap CSS -->
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 		<link rel="preconnect" href="https://fonts.googleapis.com">
