@@ -630,11 +630,11 @@
 								<span class="gold wt-500">7:00 PM</span><br>
 								<span class="allcaps white-text schedule-activity">The End</span>
 							</p>
-							<p class="text-left white-text pt-5" style="font-size:15px;line-height:17px;">Times are approxiate and could change.</p>
+							<p class="text-left white-text pt-5" style="font-size:15px;line-height:17px;">Times are approximate and could change.</p>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6 col-lg-7 d-sm-none d-md-block" style="background-image:url('img/schedule.jpg');background-repeat: no-repeat;background-size: cover;background-position:center;min-height:100px;"> </div>
+				<div class="col-md-6 col-lg-7 d-sm-none d-md-block" style="background-image:url('img/schedule.jpg');background-repeat: no-repeat;background-size: cover;background-position:center center;"> </div>
 			</div>
 		</section>
 		<!-- Getting There -->
