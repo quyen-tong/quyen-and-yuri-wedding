@@ -547,7 +547,7 @@
 				<div class="d-flex align-items-start flex-column bd-highlight" style="height:92vh;">
 					<div class="w-100 bd-highlight" style="height:3vh;"></div>
 					<div class="w-100 bd-highlight">
-						<h1 class="text-center gold">Quyen & Yuri</h1>
+						<h1 class="text-center gold">Quyen &+ Yuri</h1>
 						<p class="hero-date">10.8.2022</p>
 					</div>
 					<div class="w-100 mt-auto p-2 bd-highlight">
