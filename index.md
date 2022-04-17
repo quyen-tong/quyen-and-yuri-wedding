@@ -99,8 +99,8 @@
 			/*	* {overflow-x: hidden;
 			overflow-y: visible !important;} */
 			@font-face {
-			font-family: AmalfiCoast;
-			src: url(AmalfiCoast.ttf);
+			font-family: 'AmalfiCoast';
+			src: url('AmalfiCoast.ttf');
 			}
 			body {
 			overflow-x: hidden;
