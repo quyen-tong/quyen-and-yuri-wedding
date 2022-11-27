@@ -37,7 +37,11 @@
 	}
 
 	.nav>li>a:focus, .nav>li>a:hover {
-		background-color: transparent !important;
+		background-color: transparent;
+	}
+
+	.nav-item-main {
+			background-color: inherit;
 	}
 
 	.nav-link {
@@ -313,9 +317,11 @@ Lodging
 </section>-->
 
 <div class="container" style="display:flex;justify-content:center;">
-	<div class="col-md-5" style="padding-top:20px;">
+	<div class="col-md-6" style="padding-top:20px;">
 		<ul class="nav nav-justified">
-			<li> <a class="blog-nav-item active" href="#ceremony">Ceremony</a>
+			<li> <a class="blog-nav-item nav-item-main" href="index.html" style="background-color: #005C46;border-radius: 5px;color:#fff;">Main</a>
+			</li>
+			<li> <a class="blog-nav-item" href="#ceremony">Ceremony</a>
 			</li>
 			<li><a class="blog-nav-item" href="#bridals">Bridals</a>
 			</li>
